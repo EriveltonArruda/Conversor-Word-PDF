@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/assets/images/backgroud-monitore-rastreamento.jpg);
+  background-image: url(../images/backgroud-monitore-rastreamento.jpg);
 }
 
 header .header-container {
@@ -53,7 +53,7 @@ body .text h2 {
   height: 100px;
   background-color: #eee;
   display: grid;
-  grid-template-areas: "stack";
+  grid-template-areas: 'stack';
   border-radius: 8px;
 }
 
